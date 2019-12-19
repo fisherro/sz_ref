@@ -2,6 +2,8 @@
 
 A sometimes handy alternative to boost::string_ref.
 
+**Note:** I've started a more modern version of this (fisherro::zstring_view) within [cpplibxml2](https://github.com/fisherro/cpplibxml2)
+
 ## What is it?
 
 Like boost::string_ref&dagger; (and built on top of it), but...
